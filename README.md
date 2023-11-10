@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy LanyXD - Andy Monzón</h1>
 <h3 align="center">Soy un estudiante de ingeniería en sistemas e informática de la Universidad Rafael Landivar, en Quetzaltenango - Guatemala.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Panda3D**
+- 🌱 Actualmente estoy aprendiendo **Python y sus diferentes librerias.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en: **aun no tengo proyectos que mostrar**.
 
